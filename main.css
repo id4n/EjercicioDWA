@@ -30,3 +30,21 @@ ul {
       margin-left: 15cm;
   }
   
+  
+  #img{
+      float: right;
+  }   
+  #img2{
+      float: left;
+  }
+
+  div{
+      margin:auto;
+      width: 18cm;
+  }
+  .p2{
+      margin-left: 200px;
+  }
+  .p1{
+      margin-right: 200px;
+  }
